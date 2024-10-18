@@ -1,6 +1,10 @@
 # Added by me
 .DS_Store
-/raw/
+*.csv
+*.xls
+*.xlsx
+/.jupyter/
+/.ipynb_checkpoints
 
 # Added from the Python template of .gitignore
 # https://github.com/github/gitignore/blob/main/Python.gitignore
